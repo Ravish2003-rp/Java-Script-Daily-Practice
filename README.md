@@ -1,1 +1,1 @@
-# Java-Script-Daily-Practice
+# WEB DEVELOPMENT 
