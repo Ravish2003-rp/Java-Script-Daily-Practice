@@ -1,0 +1,8 @@
+//print the multiplication no of table//
+const num = 5;
+for(let i = 1; i<=10; i++){
+
+  const result = num*i;
+  console.log(result);
+
+}
